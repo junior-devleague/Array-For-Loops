@@ -21,11 +21,13 @@ Hint: What is `count` equal to in the index.html?
 3. Increment `count` by one with each click
 
 **ADVANCED**
+
 1. Use a _FOR_ loop to increment `count` by 10
 2. Use a _FOR_ loop to decrement `count` by 1
 
 ##addColor()
 You will be creating a function which will give the attribute _backgroundColor_ to the divs on the _DOM_
+
 1. Create an array named `colors` and set it's value to 3 different colors
 2. Create a variable named `documentDIVs` that accesses the all the _DOM_ divs
 Hint: You want to access the elements by their tag name
@@ -34,6 +36,7 @@ Hint: You want to access the elements by their tag name
 Hint: Use .style.backgroundColor to give the attribute and value to the element _DOM_
 
 **ADVANCED**
+
 1. Can you assign each value in `colors` to each `documentDIVs` using the same _FOR_ loop?
 
 
