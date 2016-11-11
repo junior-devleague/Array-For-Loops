@@ -2,6 +2,7 @@
 You will be learning about how to create arrays, access DOM elements, and use for loops to access the values in the arrays!
 
 ## Getting Started
+
 1. **Fork** this respository
 2. **Clone** this repo from your personal GitHub account.
 3. Only work in the file called `main.js`
@@ -12,7 +13,8 @@ You will be learning about how to create arrays, access DOM elements, and use fo
 Declare a variable named `count` equal to 0
 
 ##increaseCount()
-You will be creating a function which will increment the count of a number in a div element
+You will be creating a function which will increment the count of a number in a div element.
+
 1. Create a variable named `countElement` that accesses the _DOM_ element `count`
 Hint: What is `count` equal to in the index.html?
 2. Assign the `countElement` innerHTML to `count`
